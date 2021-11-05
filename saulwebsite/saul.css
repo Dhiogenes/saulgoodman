@@ -1,0 +1,200 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    overflow: hidden;
+    margin: auto;
+    background: Navy;
+    padding: 15px;
+    font-size: 14px;
+}
+
+.menu{
+    font-style: oblique;
+    left: 40px;
+    position: relative;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    /*float: right;*/
+}
+
+li{
+    font-style: oblique;
+    float: left;
+    color: white;
+    margin-left: 15px;
+}
+
+.logo{
+    font-style: oblique;
+    left: 60px;
+    position: relative;
+    float: left;
+    color: white;
+}
+
+.header1{
+    overflow: hidden;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    font-size: 17px;
+}
+.menu1{
+    font-size: 16px;
+   /* font-family: 'Cinzel', serif;*/
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    float: right;
+}
+.lul{
+    font-size: 16px;
+    /*font-family: 'Cinzel', serif;*/
+    font-style: oblique;
+    right: 80px;
+    position: relative;
+    float: left;
+    color:Navy;
+    margin-left: 60px;
+}
+.quadrado{
+    left: 100px;
+    position: relative;
+    float: left;
+    width: 90px;
+    height: 100px;
+	background-color: white;
+	overflow: auto;
+}
+.home1{
+    font-style: oblique;
+    right: 400px;
+    position: relative;
+    float: left;
+    color:DarkGoldenRod;
+    margin-left: 60px;
+}
+.free{
+    font-style: oblique;
+    border: 2px solid DarkGoldenRod;
+    right: 80px;
+    position: relative;
+    float: left;
+    color:DarkGoldenRod;
+    margin-left: 60px;
+}
+
+.li2{
+    left: 700px;
+    position: relative;
+    float: left;
+    color: white;
+    margin-left: 15px;
+}
+.login{
+    left: 60px;
+    position: relative;
+}
+section{
+     bottom: 40px;
+   
+    position: relative;
+   background-image: url(imagens/bixo.jpg);
+}
+
+.square{
+    top: 1px;
+    left: 100px;
+    position: relative;
+	width: 600px;
+	height: 500px;
+	background-color:none;
+	margin: 50px;
+}
+.titulo2{
+    /*font-family: 'Cinzel', serif;*/
+    font-style: oblique;
+    color: white;
+    top: 80px;
+    left: 180px;
+    position: relative;
+}
+.saulname{
+    top: 100px;
+    left: 170px;
+    position: relative;
+}
+.namedown{
+    /*font-family: 'Cinzel', serif;*/
+  font-style: oblique;
+    font-size:40px;
+    color:white;
+    left: 200px;
+    top: 120px;
+    position: relative;
+}
+.paragrafo{
+   /* font-family: 'Cinzel', serif;*/
+  font-style: oblique;
+    color: white;
+    top: 180px;
+    position: relative;
+}
+.persona{
+    bottom: 265px;
+    left: 800px;
+    position: relative;
+}
+
+.box{
+    width: 300px;
+	height: 100px;
+	background-color: pink;
+	margin: 50px;
+}
+
+.justice{
+    top: 20px;
+    left: 280px;
+    position: relative;
+}
+
+.social{
+    top: 20px;
+    left: 300px;
+    position: relative;
+}
+
+.contrato{
+    top: 20px;
+    left: 320px;
+    position: relative;
+}
+
+.open{
+    font-style: oblique;
+    font-size: 15px;
+    color: navy;
+    left: 340px;
+    position: relative;
+}
+
+.legal{
+    font-style: oblique;
+    font-size: 15px;
+    color: navy;
+    bottom: 20px;
+    left: 560px;
+    position: relative; 
+}
+.and{
+    font-style: oblique;
+    font-size: 15px;
+    color: navy;
+    bottom: 42px;
+    left: 880px;
+    position: relative;
+}
